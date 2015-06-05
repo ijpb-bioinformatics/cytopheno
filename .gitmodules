@@ -7,3 +7,4 @@
 [submodule "R/contigLink"]
 	path = R/contigLink
 	url = https://github.com/jos4uke/contigLink.git
+    branch = unstable-branch
