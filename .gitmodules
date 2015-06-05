@@ -4,3 +4,6 @@
 [submodule "bash/bash-common"]
 	path = bash/bash-common
 	url = https://github.com/jos4uke/bash-common.git
+[submodule "R/contigLink"]
+	path = R/contigLink
+	url = https://github.com/jos4uke/contigLink.git
