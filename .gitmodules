@@ -5,3 +5,6 @@
 	path = R/contigLink
 	url = https://github.com/jos4uke/contigLink.git
     branch = unstable-branch
+[submodule "bash/mitology-pipeline"]
+	path = bash/mitology-pipeline
+	url = https://github.com/jos4uke/mitology-pipeline.git
